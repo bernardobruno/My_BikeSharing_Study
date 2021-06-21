@@ -1,3 +1,5 @@
+![bike](https://user-images.githubusercontent.com/79570410/122733920-ee8e9a00-d27d-11eb-86b0-e952ab7545a7.jpg)
+
 # My_BikeSharing_Study
 Bike Sharing Preprocessing and Visualization using the Capital Bike Sharing provided by UCI. Berlin Code Academy activity. 
 In this file (Jupyter Notebook) you can find the main steps for exploring data and cleaning the dataset provided by the 
